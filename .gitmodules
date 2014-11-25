@@ -1,0 +1,9 @@
+[submodule "third/apr"]
+	path = third/apr
+	url = https://github.com/apache/apr.git
+[submodule "third/mupdf"]
+	path = third/mupdf
+	url = git://git.ghostscript.com/mupdf.git
+[submodule "third/libchm"]
+	path = third/libchm
+	url = https://github.com/jedwing/CHMLib.git
